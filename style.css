@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(125, 52, 209);
+    font-family: Arial, sans-serif;
+}
+
+h2{
+    color:cornflowerblue
+}
+
+p{
+    color: rgb(7, 63, 32);
+    background-color:brown;
+    font-size: 30px;
+}
+
+img{
+    width: 50%;
+    height: 50%;
+}
